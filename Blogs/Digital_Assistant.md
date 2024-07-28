@@ -5,6 +5,7 @@
  </tr>
 </table>
 
+# Digital Assistance
 Digital assistants is a computer software and act as visual assistants. The visual assistants have been playing a major key role in data flow with the advent usage of advanced internet technology.
 
 ![alt text](../Blogs/Images/Picture3.gif)
@@ -21,6 +22,6 @@ AI has already been updated with different layers in User Experience feedback me
 AI also has significant feature of understanding the tone and slang of human languages to optimize, characterize, and analyse the information given to it. This is the key function on the Virtual devices and also the AI featured electronic devices. 
 In the world of digital era, concept of digital libraries brought the digital information to the human fingertips with pervading data with many available resources. The system is set to ready to identify any piece of data from massive data storage. For example, our well know app in Android mobile phone-Google photos acts as data handling ecosystem as it is recognizing the places, faces, landscapes and more, with one of the inbuilt AI feature face recognition system and it populates the notification with the segregated data information available in the device.
 
-![alt text](../Blogs/Images/Picture1.png)
+
 
 Causally it saves the users time from data search and information gathering. From setting business goals to goal achievements in any organization, time plays a crucial role against fetching informative data as it has eased with the digital assistants on knowledge management.
