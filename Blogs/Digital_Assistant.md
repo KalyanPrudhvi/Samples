@@ -6,7 +6,7 @@
 </table>
 
 # Digital Assistance
-Digital assistants is a computer software and act as visual assistants. The visual assistants have been playing a major key role in data flow with the advent usage of advanced internet technology.
+Digital assistants are computer software programs that act as visual assistants. These assistants play a major role in data flow with the advent and widespread use of advanced internet technology.
 
 ![alt text](../Blogs/Images/Picture3.gif)
 
