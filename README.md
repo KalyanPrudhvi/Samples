@@ -1,6 +1,6 @@
 # Technical Writing Samples
 
-Welcome to the repository of my technical writing samples. This repository showcases a selection of documents that highlight my skills and experience in writing, which include user manuals, blogs, and more.
+Welcome to the repository of my technical writing samples. This repository showcases a selection of documents that highlight my skills and experience in writing, which include manuals, blogs, and more.
 
 ## Quick Links
 1. [Digital Assistant](https://github.com/KalyanPrudhvi/Samples/blob/main/Blogs/Digital_Assistant.md)
