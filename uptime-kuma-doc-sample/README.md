@@ -13,7 +13,7 @@ I wrote this sample to show how I approach technical documentation:
 
 | Document | What it covers |
 |---|---|
-| [What is Uptime Kuma?](docs/what-is-uptime-kuma.md) | A short introduction to the tool |
+| [What is Uptime Kuma?](docs/What-is-uptime-kuma.md) | A short introduction to the tool |
 | [Install Uptime Kuma](docs/install-uptime-kuma.md) | Docker-based installation |
 | [Create your first monitor](docs/create-first-monitor.md) | Monitoring a website or API |
 | [Troubleshoot monitors](docs/troubleshoot-monitors.md) | Common issues and fixes |
